@@ -1,4 +1,4 @@
-# ☕ Maven Roasters Coffee Sales Analysis
+# Maven Roasters Coffee Sales Analysis
 
 Comprehensive sales analytics for Maven Roasters, a fictitious coffee shop operating across three NYC locations. This project analyzes transaction patterns, customer behavior, and product performance to drive data-informed business decisions.
 
@@ -10,7 +10,7 @@ This analysis examines Maven Roasters' sales data to answer critical business qu
 - What times of day see peak traffic?
 - Which products drive the most volume and revenue?
 
-## 🎯 Key Findings
+## Key Findings
 
 ### Sales Trends
 - **Strong Growth**: Sales increased from $81,678 (Jan) to $166,486 (Jun)
@@ -81,7 +81,7 @@ The notebook includes:
    - Average revenue per transaction
    - Margin analysis by product
 
-## 📈 Visualizations
+## Visualizations
 
 All analyses include professional matplotlib visualizations:
 - Line charts with area fills for trends
@@ -90,7 +90,7 @@ All analyses include professional matplotlib visualizations:
 - Dual-axis charts for multi-metric comparison
 - Heatmap-style grouped visualizations
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 ### Staffing Optimization
 - **Peak Coverage**: Maximum staff 7-10 AM (morning rush)
@@ -108,7 +108,7 @@ All analyses include professional matplotlib visualizations:
 - **Volume Driver**: Maintain strong Chai tea supply (volume leader)
 - **Seasonal Testing**: Investigate April Sunday spike for replication
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 - **Platform**: Databricks
 - **Languages**: Python, SQL
@@ -118,25 +118,15 @@ All analyses include professional matplotlib visualizations:
   - PySpark (data processing)
 - **Database**: Unity Catalog (`coffee_shop_sales.coffee_sales`)
 
-## 📊 Data Schema
 
-Key fields in the `coffee_shop_sales` table:
-- `transaction_date`: Date of transaction
-- `transaction_time`: Time of transaction
-- `transaction_qty`: Quantity purchased
-- `unit_price`: Price per unit
-- `product_type`: Product category
-- `product_id`: Unique product identifier
-- `store_location`: Store identifier
-
-## 🚀 Getting Started
+## Getting Started
 
 1. Open the **Coffee Sales** notebook in Databricks
 2. Ensure access to the `coffee_shop_sales.coffee_sales` table
 3. Run all cells sequentially (Cells 2-23)
 4. Review visualizations and insights
 
-## 📝 Analysis Methodology
+## Analysis Methodology
 
 ### SQL Queries
 - Window functions for period-over-period analysis
@@ -150,14 +140,14 @@ Key fields in the `coffee_shop_sales` table:
 - Custom visualizations with matplotlib
 - Data type conversions for numeric precision
 
-## 📅 Data Coverage
+## Data Coverage
 
 - **Time Period**: January - June 2026
 - **Locations**: 3 NYC stores
 - **Total Transactions**: 149,116
 - **Products**: 30+ unique product types
 
-## 🎓 Key Learnings
+## Key Exploration 
 
 1. **Work Week Dominance**: Coffee consumption strongly correlates with work schedules
 2. **Morning Peak**: 7-10 AM window is critical for revenue

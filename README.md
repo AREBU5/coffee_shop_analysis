@@ -167,7 +167,7 @@ Key fields in the `coffee_shop_sales` table:
 
 ## 📧 Contact
 
-For questions or insights about this analysis, please reach out to the data analytics team.
+For questions or insights about this analysis, please reach out to me @ danielarebu@outlook.com.
 
 ---
 

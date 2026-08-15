@@ -169,8 +169,3 @@ Key fields in the `coffee_shop_sales` table:
 
 For questions or insights about this analysis, please reach out to me @ danielarebu@outlook.com.
 
----
-
-**Last Updated**: August 15, 2026  
-**Analysis Period**: January - June 2026  
-**Data Source**: Maven Roasters Transaction Database

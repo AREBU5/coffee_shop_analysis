@@ -2,7 +2,7 @@
 
 Comprehensive sales analytics for Maven Roasters, a fictitious coffee shop operating across three NYC locations. This project analyzes transaction patterns, customer behavior, and product performance to drive data-informed business decisions.
 
-## 📊 Project Overview
+## Project Overview
 
 This analysis examines Maven Roasters' sales data to answer critical business questions:
 - How have sales trended over time?

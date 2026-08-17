@@ -56,7 +56,7 @@ Coffe-shop-sales/
 └── Coffee Sales.ipynb                  # Main analysis notebook
 ```
 
-## 🔍 Analysis Components
+## Analysis Components
 
 The notebook includes:
 
@@ -155,7 +155,7 @@ All analyses include professional matplotlib visualizations:
 4. **Monthly Variation**: External factors (events, weather) significantly impact daily patterns
 5. **Product Mix**: 20% of products drive 80% of revenue (Pareto principle)
 
-## 📧 Contact
+## Contact
 
 For questions or insights about this analysis, please reach out to me @ danielarebu@outlook.com.
 

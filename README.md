@@ -48,7 +48,7 @@ This analysis examines Maven Roasters' sales data to answer critical business qu
 - Green tea (159 units)
 - House blend Beans (183 units)
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Coffe-shop-sales/
